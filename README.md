@@ -1,123 +1,374 @@
-👋 Hi, I'm Tonny Otieno
-Software Engineer | Backend & Full-Stack Developer | Data Engineering Enthusiast
-🔭 I’m currently working on scalable backend services and microservice architectures for fintech applications at Techonward Fintech Ltd
+<div align="center">
 
-🌱 I’m currently learning advanced system design patterns, cloud-native architectures, and real-time data processing pipelines
+# 👋 Hi, I'm Tonny Otieno
 
-🤝 I’m looking to collaborate on open-source fintech projects, payment integration solutions, and innovative full-stack applications
+### Software Engineer • Distributed Systems • Backend • Cloud • AI-Powered Financial Infrastructure
 
-💬 Ask me about Java Spring Boot, Microservices, API Design, Payment Systems, Database Optimization, and Full-Stack Development
+<p>
+Building secure, scalable and high-performance distributed systems for the next generation of Financial Technology.
+</p>
 
-📫 How to reach me: ookotonny09@gmail.com | LinkedIn | +254 758 312 202
+<p>
 
-🛠️ Tech Stack & Tools
-Backend & Core Engineering
-Languages: Java, Python, Node.js, PHP, JavaScript
+<a href="mailto:ookotonny09@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Frameworks: Spring Boot, Laravel, Express.js
+<a href="https://github.com/Tonny-Ooko">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Architecture: Microservices, REST APIs, SOA, Distributed Systems
+<a href="https://linkedin.com/in/tonny-otieno">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Frontend & Full-Stack
-Frameworks: React, Vue.js, Angular
+<img src="https://img.shields.io/badge/Kenya-Engineering-success?style=for-the-badge"/>
 
-Languages: HTML5, CSS3, JavaScript, TypeScript
+</p>
 
-State Management: Redux, Context API, Zustand
+</div>
 
-Data & Persistence
-Databases: PostgreSQL, MySQL, MongoDB, Redis
+---
 
-Design: Schema Design, Query Optimization, Data Modeling
+# 🚀 About Me
 
-Caching: Redis, Memcached, CDN Integration
+I'm a Software Engineer passionate about designing **enterprise-grade distributed systems**, **financial infrastructure**, **AI-powered platforms**, and **cloud-native applications**.
 
-DevOps & Cloud
-Containers: Docker, Kubernetes
+I enjoy solving difficult engineering problems involving scalability, fault tolerance, distributed consensus, secure payment processing, event-driven architectures, and high-performance backend systems.
 
-CI/CD: Jenkins, GitHub Actions, GitLab CI
+Currently I'm building the next generation **Agentic Financial Middleware** capable of powering autonomous AI agents, digital banking, embedded finance, identity management, compliance automation, fraud detection, and intelligent payment orchestration.
 
-Cloud: AWS, Azure, Google Cloud Platform
+---
 
-Version Control: Git, GitHub, GitLab
+# 💼 Current Focus
 
-Security & Integration
-Authentication: JWT, OAuth 2.0, SAML, SSO
+🔹 Distributed Systems
 
-Security: API Security, Encryption, Rate Limiting
+🔹 FinTech Infrastructure
 
-Integration: Third-party APIs, Payment Gateways, Web Services
+🔹 AI Agent Orchestration
 
-🚀 Key Achievements
-Financial Systems: Designed and implemented scalable payment processing microservices handling thousands of transactions daily
+🔹 Digital Banking
 
-API Development: Built secure, production-grade RESTful APIs with comprehensive authentication and authorization flows
+🔹 Event Driven Architecture
 
-Database Optimization: Reduced query execution time by 60% through strategic indexing and query optimization techniques
+🔹 Identity & DID Systems
 
-Cross-Platform Integration: Successfully integrated mobile and web clients with backend services for seamless user experiences
+🔹 Fraud Detection
 
-CI/CD Implementation: Established automated deployment pipelines reducing release cycles by 40%
+🔹 Kubernetes & Cloud Native
 
-📊 My GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonnyotieno&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnyotieno&layout=compact&hide_border=true&langs_count=8&theme=radical" /> </div>
-📈 Contribution Graph
-https://github-readme-activity-graph.vercel.app/graph?username=tonnyotieno&theme=github-compact
+🔹 Go & Rust Systems Programming
 
-🏆 GitHub Trophies
-https://github-profile-trophy.vercel.app/?username=tonnyotieno&theme=onedark
+---
 
-💼 Featured Projects
-Fintech Payment Gateway
-Tech Stack: Java Spring Boot, PostgreSQL, Redis, Docker, Kafka
+# 🌱 Currently Learning
 
-Designed microservice architecture for processing payments and financial transactions
+- Advanced Distributed System Design
+- High Performance Go
+- Production Rust
+- Event Streaming with Kafka
+- Consensus Algorithms
+- Cloud Native Architecture
+- Kubernetes Operators
+- Zero Trust Security
+- AI Agent Systems
+- Financial Infrastructure
 
-Implemented secure authentication using JWT and OAuth 2.0
+---
 
-Achieved 99.9% uptime with automated failover and monitoring
+# 🤝 Open to Collaborate On
 
-E-Commerce Platform
-Tech Stack: React, Node.js, MongoDB, Express, Stripe API
+- Open Source FinTech
+- Distributed Systems
+- Go Projects
+- Rust Projects
+- AI Infrastructure
+- Banking Platforms
+- Cloud Native Projects
+- Payment Systems
+- Identity Platforms
 
-Built full-stack application with real-time inventory management
+---
 
-Integrated multiple payment gateways and shipping providers
+# 💬 Ask Me About
 
-Optimized for high traffic with caching and CDN strategies
+- Go
+- Rust
+- Java Spring Boot
+- System Design
+- Microservices
+- Event Driven Architecture
+- Kafka
+- PostgreSQL
+- API Design
+- Kubernetes
+- Distributed Systems
+- Payment Processing
+- Banking Systems
+- Clean Architecture
+- Domain Driven Design
 
-Data Analytics Dashboard
-Tech Stack: Python, Django, PostgreSQL, D3.js, Redis
+---
 
-Developed interactive dashboards for business intelligence
+# 🛠 Tech Stack
 
-Implemented real-time data processing pipelines
+## Languages
 
-Optimized query performance for large datasets
+<p>
 
-🔭 Currently Exploring
-Cloud-Native Architecture: AWS services, Kubernetes orchestration
+<img src="https://skillicons.dev/icons?i=go,rust,java,python,js,ts,php"/>
 
-Real-Time Processing: Apache Kafka, WebSockets, Event-Driven Systems
+</p>
 
-AI Integration: Machine Learning APIs, NLP Services
+---
 
-Blockchain: Smart Contracts, DeFi Applications
+## Backend
 
-📫 Connect With Me
-<div align="center"> <a href="mailto:ookotonny09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/tonny-otieno"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/tonnyotieno"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://github.com/Tonny-Ooko"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> </div>
-📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-Building Scalable Microservices with Spring Boot and Kubernetes
+<p>
 
-Optimizing PostgreSQL Queries for High-Performance Applications
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,laravel"/>
 
-Implementing Secure Payment Gateways in Fintech Applications
+</p>
 
-Best Practices for RESTful API Design and Documentation
+---
 
-Getting Started with Docker for Development Workflows
+## Frontend
 
-<!-- BLOG-POST-LIST:END -->
-<div align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=tonnyotieno.tonnyotieno" alt="visitor badge"/> <img src="https://img.shields.io/github/followers/tonnyotieno?style=social" alt="GitHub followers"/> </div>
-"Building robust, scalable solutions that drive innovation and deliver value"
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind"/>
+
+</p>
+
+---
+
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
+
+</p>
+
+---
+
+## Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,githubactions,jenkins,git"/>
+
+</p>
+
+---
+
+## Architecture
+
+✔ Microservices
+
+✔ Event Driven Systems
+
+✔ Distributed Systems
+
+✔ CQRS
+
+✔ Clean Architecture
+
+✔ Domain Driven Design
+
+✔ API Gateway
+
+✔ Service Mesh
+
+✔ Distributed Transactions
+
+✔ High Availability
+
+✔ Fault Tolerance
+
+---
+
+# 🔐 Security
+
+- OAuth2
+- JWT
+- OpenID Connect
+- API Security
+- Zero Trust
+- Encryption
+- RBAC
+- Rate Limiting
+- Secure Payment Processing
+- Identity & DID
+- Compliance Systems
+
+---
+
+# 🚀 Featured Projects
+
+## 🏦 Agentic Financial Middleware
+
+Enterprise-grade intelligent financial middleware designed for autonomous AI agents.
+
+### Features
+
+- Agent Orchestration
+- Payment Routing
+- Settlement Engine
+- Fraud Detection
+- Compliance Engine
+- Reputation Engine
+- DID Identity Service
+- Wallet Infrastructure
+- Risk Engine
+- Real-Time Analytics
+
+**Stack**
+
+```
+Go
+Rust
+Kafka
+PostgreSQL
+Redis
+Docker
+Kubernetes
+OpenTelemetry
+```
+
+---
+
+## 💳 Enterprise Payment Platform
+
+Production payment platform supporting secure payment routing.
+
+### Features
+
+- Payment Gateway
+- Transaction Routing
+- Risk Scoring
+- Settlement
+- High Availability
+- Audit Trail
+- Fraud Detection
+
+---
+
+## 📊 Analytics Platform
+
+Real-time analytics platform processing millions of financial events.
+
+Features include
+
+- Event Streaming
+- Dashboards
+- Reporting
+- ML Ready Pipeline
+- Data Lake Integration
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Tonny-Ooko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonny-Ooko&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Tonny-Ooko&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tonny-Ooko&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tonny-Ooko&theme=tokyonight&margin-w=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📚 Currently Exploring
+
+- AI Agents
+- Agentic Systems
+- Multi-Agent Architecture
+- Blockchain Infrastructure
+- Digital Identity
+- Open Banking
+- Embedded Finance
+- Consensus Algorithms
+- Confidential Computing
+- Distributed Ledgers
+
+---
+
+# 📫 Reach Me
+
+📧 **Email**
+
+**ookotonny09@gmail.com**
+
+📱 **Phone**
+
+**+254 758 312 202**
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/tonny-otieno
+
+🌍 **GitHub**
+
+https://github.com/Tonny-Ooko
+
+---
+
+# 💡 Engineering Philosophy
+
+> **"Great software is not measured by how much code it contains, but by how reliably it solves complex problems at scale."**
+
+I believe in building systems that are:
+
+- Reliable
+- Observable
+- Secure
+- Scalable
+- Fault Tolerant
+- Maintainable
+- Well Tested
+- Production Ready
+
+---
+
+<div align="center">
+
+### ⭐ If you enjoy my work, consider following me and starring my repositories!
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Tonny-Ooko"/>
+
+</div>
