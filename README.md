@@ -36,7 +36,7 @@ I'm a Software Engineer passionate about designing **enterprise-grade distribute
 
 I enjoy solving difficult engineering problems involving scalability, fault tolerance, distributed consensus, secure payment processing, event-driven architectures, and high-performance backend systems.
 
-Currently I'm building the next generation **Agentic Financial Middleware** capable of powering autonomous AI agents, digital banking, embedded finance, identity management, compliance automation, fraud detection, and intelligent payment orchestration.
+Currently I'm building the next generation **Financial Platform** capable of powering  AI agents, digital banking, embedded finance, identity management, compliance automation, fraud detection, and intelligent payment orchestration.
 
 ---
 
@@ -207,9 +207,9 @@ Currently I'm building the next generation **Agentic Financial Middleware** capa
 
 # 🚀 Featured Projects
 
-## 🏦 Agentic Financial Middleware
+## 🏦 Financial Platform
 
-Enterprise-grade intelligent financial middleware designed for autonomous AI agents.
+Enterprise-grade intelligent financial platform designed for  AI agents.
 
 ### Features
 
@@ -235,6 +235,7 @@ Redis
 Docker
 Kubernetes
 OpenTelemetry
+AI
 ```
 
 ---
