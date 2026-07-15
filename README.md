@@ -104,6 +104,7 @@ Currently I'm building the next generation **Financial Platform** capable of pow
 - API Design
 - Kubernetes
 - Distributed Systems
+- Python 
 - Payment Processing
 - Banking Systems
 - Clean Architecture
